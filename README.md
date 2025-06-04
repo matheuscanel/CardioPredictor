@@ -26,16 +26,16 @@ Este projeto tem como objetivo aplicar algoritmos de aprendizado de máquina par
 
 ## 📎 Link para o relatório completo (SBC)
 
-🔗 [Relatório LaTeX no Overleaf](https://www.overleaf.com/project/683e2ba793e5e8ffaf2cc7b4)
+🔗 [Relatório LaTeX no Overleaf](https://www.overleaf.com/read/sbvvpvhmdgbr#aa6702)
 
 ## 👥 Membros do Grupo
 
-- Matheus Canel - matheuscanel
-- Rodrigo Souza -  
-- Edmar Alencar  
-- Arthur Reis  
-- Raphael Barros  
-- João Augusto Pimentel
+- Matheus Canel - @matheuscanel
+- Rodrigo Souza - @
+- Edmar Alencar - @edmaarlencar
+- Arthur Reis - @arthurreis33
+- Raphael Barros - @raphaelbalbanez
+- João Augusto Pimentel - @jaugusto08
 
 ## 👨‍🏫 Disciplina
 
