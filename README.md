@@ -26,7 +26,7 @@ Este projeto tem como objetivo aplicar algoritmos de aprendizado de máquina par
 
 ## 📎 Link para o relatório completo (SBC)
 
-🔗 [Relatório LaTeX no Overleaf](https://www.overleaf.com/project/683e2ba793e5e8ffaf2cc7b4e)
+🔗 [Relatório LaTeX no Overleaf](https://www.overleaf.com/project/683e2ba793e5e8ffaf2cc7b4)
 
 ## 👥 Membros do Grupo
 
