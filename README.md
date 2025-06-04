@@ -31,7 +31,7 @@ Este projeto tem como objetivo aplicar algoritmos de aprendizado de máquina par
 ## 👥 Membros do Grupo
 
 - Matheus Canel - @matheuscanel
-- Rodrigo Souza - @
+- Rodrigo Souza - @rodsouzab
 - Edmar Alencar - @edmaarlencar
 - Arthur Reis - @arthurreis33
 - Raphael Barros - @raphaelbalbanez
