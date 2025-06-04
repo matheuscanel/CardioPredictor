@@ -7,10 +7,10 @@ Este projeto tem como objetivo aplicar algoritmos de aprendizado de máquina par
 
 ## 🔍 Modelos Utilizados
 
-- Regressão Logística
-- Árvore de Decisão
-- Floresta Aleatória (Random Forest)
-- Naive Bayes Gaussiano
+- Regressão Logística  
+- Árvore de Decisão  
+- Floresta Aleatória (Random Forest)  
+- Naive Bayes Gaussiano  
 - KNN (K-Nearest Neighbors)
 
 ## 📊 Métricas Avaliadas
@@ -27,6 +27,15 @@ Este projeto tem como objetivo aplicar algoritmos de aprendizado de máquina par
 ## 📎 Link para o relatório completo (SBC)
 
 🔗 [Relatório LaTeX no Overleaf](https://www.overleaf.com/project/683e2ba793e5e8ffaf2cc7b4e)
+
+## 👥 Membros do Grupo
+
+- Matheus Canel - matheuscanel
+- Rodrigo Souza -  
+- Edmar Alencar  
+- Arthur Reis  
+- Raphael Barros  
+- João Augusto Pimentel
 
 ## 👨‍🏫 Disciplina
 
